@@ -15,5 +15,3 @@ int _strlen(char *s)
 	}
 	return (p);
 }
-Footer
-© 2023 G
